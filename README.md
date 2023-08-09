@@ -1,3 +1,4 @@
+Task 2
 1. Prompt the user to enter a text or provide a file to count the words.
 2. Read the input text or file and store it in a string.
 3. Split the string into an array of words using space or punctuation as delimiters.
